@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Publications
 
-You can use the [editor on GitHub](https://github.com/prestoncarman/prestoncarman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- _**E. P. Carman, Jr.**, T. Westmann, V. R. Borkar, M. J. Carey, and V. J. Tsotras_, "A Scalable Parallel XQuery Processor," IEEE Big Data, 2015. [PDF](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7363753&tag=1) [slides](https://docs.google.com/presentation/d/15SsEcewp7iufQrdGVjwiF-E9Dt6y_A15AhMEXfxjxHg/edit?usp=sharing)
+- _V. Borkar, Y. Bu, **E. P. Carman, Jr.**, N. Onose, T. Westmann, P. Pirzadeh, M. J. Carey, and V. J. Tsotras_, "Algebricks : A Data Model-Agnostic Compiler Backend for Big Data Languages," SoCC, 2015. [PDF](http://sigmod.github.io/papers/socc15-final153.pdf) [slides](https://docs.google.com/presentation/d/1IuH463wayKnsJ6olRtU2Fg_e_aJ-46x7ZOCR4BDlguI/edit?usp=sharing) [poster](https://docs.google.com/presentation/d/1-Ot_UodSL0Gk5svPVIQsD3wi6Gv_O9O8hOFeot8Who8/edit?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prestoncarman/prestoncarman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Apache AsterixDB](https://asterixdb.apache.org/) - Check out the [research](http://asterixdb.ics.uci.edu/) aspect of the project.
+- [Apache VXQuery](https://vxquery.apache.org/)
