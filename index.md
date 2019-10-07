@@ -8,10 +8,9 @@
 
 - [Submitty](https://submitty.org/) 
   - Assisted in mentoring a Google Summer Of Code student on the Submitty API in 2019.
-  - A complete list of [commits](https://github.com/apache/asterixdb/commits?author=prestoncarman) I have made to the project.
 - [Apache AsterixDB](https://asterixdb.apache.org/) 
   - Mentored a Google Summer Of Code students in 2019.
-  - Check out the [research](http://asterixdb.ics.uci.edu/) aspect of the project.
+  - Check out the [research](http://asterix.ics.uci.edu/) aspect of the project.
   - My improvements to Apache VXQuery require a few changes to Hyracks which executes the parallel job.
   - My current research in scalable interval joins has also make improvements to the code base. More changes are in the pipeline pending the results of the scale and speed up tests.
   - A complete list of [commits](https://github.com/apache/asterixdb/commits?author=prestoncarman) I have made to the project.
