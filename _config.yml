@@ -1,1 +1,23 @@
-theme: jekyll-theme-slate
+domain: www.prestoncarman.com
+url: https://www.prestoncarman.com
+baseurl: ""
+title: Preston Carman
+theme: minima
+description: >- 
+  The things I wish I knew as I developed courses.
+
+header_pages:
+  - publications.md
+
+google_analytics: UA-1678707-3
+
+minima:
+  skin: dark
+
+github_username: prestoncarman
+linkedin_username: prestoncarman
+
+collections:
+  teaching:
+    output: true
+    permalink: /teaching/:name
