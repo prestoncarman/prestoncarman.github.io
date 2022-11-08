@@ -30,9 +30,9 @@ Each course lists the sequence of activities and a link to the original source.
 
     1. Introduction
         * Using a modified [Python Activity 01 Introduction to Python - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+01+Introduction+to+Python+-+POGIL.docx)
-        * Using a modified [Python Activity 02 Input and Variables - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+03+Arithmetic+Operators+and+Assignment+Statements++-+POGIL.docx)
+        * Using a modified [Python Activity 02 Input and Variables - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+02+Input+and+Variables+-+POGIL.docx)
     1. Arithmetic
-        * Using a modified [Python Activity 03 Arithmetic Operation and Assigment Statements - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+01+Introduction+to+Python+-+POGIL.docx)
+        * Using a modified [Python Activity 03 Arithmetic Operation and Assigment Statements - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+03+Arithmetic+Operators+and+Assignment+Statements++-+POGIL.docx)
     1. Algorithms
     1. Type Casting
     1. Boolean
