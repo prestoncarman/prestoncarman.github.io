@@ -29,27 +29,35 @@ Each course lists the sequence of activities and a link to the original source.
 * CPTR 141 Fundamentals of Programming I
 
     1. Introduction
-        * Using a modified [Python Activity 01 Introduction to Python - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AACvLyAlrysy9yMgBHgz20G3a/Python%20Activity%2001%20Introduction%20to%20Python%20-%20POGIL.docx?dl=0)
-        * Using a modified [Python Activity 02 Input and Variables - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAASwg-_wHWehxcAZV0Fp70ua/Python%20Activity%2002%20Input%20and%20Variables%20-%20POGIL.docx?dl=0)
-
+        * Using a modified [Python Activity 01 Introduction to Python - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+01+Introduction+to+Python+-+POGIL.docx)
+        * Using a modified [Python Activity 02 Input and Variables - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+03+Arithmetic+Operators+and+Assignment+Statements++-+POGIL.docx)
     1. Arithmetic
-
+        * Using a modified [Python Activity 03 Arithmetic Operation and Assigment Statements - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+01+Introduction+to+Python+-+POGIL.docx)
     1. Algorithms
     1. Type Casting
     1. Boolean
+       * Using a modified [Python Activity 05 Boolean Expressions - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+05+Boolean+Expressions+-+POGIL.docx)  
     1. If Else
+       * Using a modified [Python Activity 06 IF ELSE statements - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+06+IF+ELSE+statements+-+POGIL.docx)
     1. While
+       * Using a modified [Python Activity 08 While Loops - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+08+While+Loops+-+POGIL.docx)
     1. For
+       * Using a modified [Python Activity 09 FOR Loops - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+09+FOR+Loops+-+POGIL.docx)
     1. Nested Loops
+       * Using a modified [Python Activity 10 Nested Loops - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+10+Nested+Loops+-+POGIL.docx)
     1. Vectors
     1. Void Functions
+       * Using a modified [Python Activity 12 void Functions - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+12+void+Functions+-+POGIL.docx)
     1. Value Functions
+       * Using a modified [Python Activity 13 Value Returning Functions - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+13+Value+Returning+Functions+-+POGIL.docx)
     1. Parameter Passing
     1. Scope
     1. Code Style
     1. Arrays
     1. Reading Files
+       * Using a modified [Python Activity 14 Reading from Files - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+14+Reading+from+Files+-+POGIL.docx)
     1. Writing Files
+       * Using a modified [Python Activity 15 Writing to Files - POGIL.docx_<i>Lisa Oliveria</i>](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAAdJfzvLjeym1gJwKrIWwhBa?preview=Python+Activity+15+Writing+to+Files+-+POGIL.docx)
     1. Language Tour
 
 
