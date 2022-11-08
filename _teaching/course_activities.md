@@ -29,7 +29,7 @@ Each course lists the sequence of activities and a link to the original source.
 * CPTR 141 Fundamentals of Programming I
 
     1. Introduction
-        * Using a modified [Python Activity 01 Introduction to Python - POGIL.docx](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AACvLyAlrysy9yMgBHgz20G3a/Python%20Activity%2001%20Introduction%20to%20Python%20-%20POGIL.docx?dl=0)
+        * Using a modified [Python Activity 01 Introduction to Python - POGIL.docx](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AACvLyAlrysy9yMgBHgz20G3a/Python%20Activity%2001%20Introduction%20to%20Python%20-%20POGIL.docx?dl=0)_<i> Lisa Oliveria </i>
         * Using a modified [Python Activity 02 Input and Variables - POGIL.docx](https://www.dropbox.com/sh/2fx6pg4ydpu9t7x/AAASwg-_wHWehxcAZV0Fp70ua/Python%20Activity%2002%20Input%20and%20Variables%20-%20POGIL.docx?dl=0)
 
     1. Arithmetic
